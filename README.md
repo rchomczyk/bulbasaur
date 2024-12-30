@@ -26,5 +26,5 @@ Since version 1.4.0 of bulbasaur there is an implementation of automatically gen
 queries in compilation time.
 
 ```kotlin
-annotationProcessor("dev.shiza:bulbasaur-generator:1.4.0")
+annotationProcessor("dev.shiza:bulbasaur-generator:1.4.0") 
 ```
